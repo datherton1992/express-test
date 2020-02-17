@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/datherton1992/express-test/issues"
   },
-  "homepage": "https://github.com/datherton1992/express-test#readme"
+  "homepage": "https://github.com/datherton1992/express-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
