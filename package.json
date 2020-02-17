@@ -1,0 +1,19 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "Express is a framework for creating Server applications in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datherton1992/express-test.git"
+  },
+  "author": "David Atherton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datherton1992/express-test/issues"
+  },
+  "homepage": "https://github.com/datherton1992/express-test#readme"
+}
